@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Code"
+permalink: /Code/
 ---
 
 - [State Detection NER Demo](https://patterson-s-state-detector-ner-app-vz4hx4.streamlit.app/) - This is a custom named entity detection (NER) model that can extract mentions of countries from unstructured text. Follow the link to test out the most recent version. 

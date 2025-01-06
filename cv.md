@@ -1,6 +1,7 @@
 ---
 layout: page
-title: "cv"
+title: "CV"
+permalink: /CV/
 ---
 
 <embed src="/assets/cv/cv.pdf" type="application/pdf" width="100%" height="800px" />
