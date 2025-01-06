@@ -15,6 +15,6 @@ Code
 
 [cv](cv)
 
-[Teaching_and_workshops](teaching and workshops/)
+[Teaching_and_workshops](teaching and workshops)
 
 Contact: scott[dot]patterson[at]mail[dot]mcgill[dot]ca
