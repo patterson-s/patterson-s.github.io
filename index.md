@@ -13,8 +13,8 @@ Code
   - [Occupation Classifier](https://occupationclassifierfinetunegit-tgydnpdgrq3ddjrf5e8plp.streamlit.app/) - A fine-tuned GPT model for classifying occupations using BLS codes. Follow the link to try the most recent version. 
   - [Audio transcription](https://colab.research.google.com/drive/10qucU8nBED9LA-aIZ8ViK7yR_4btqEnL?usp=sharing) - This illustrates how to transcribe audio files for free in in colab using the OpenAI whisper model.
 
-[Teaching_and_workshops](teaching and workshops/)
-
 [CV](cv/)
+
+[Teaching_and_workshops](teaching and workshops/)
 
 Contact: scott[dot]patterson[at]mail[dot]mcgill[dot]ca
