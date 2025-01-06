@@ -3,8 +3,6 @@ layout: page
 title: "Publications"
 permalink: /publications/
 ---
-
-### Publications
 My research at McGill has focused on how to use language models to understand political language, especially in international diplomacy.
 
 
