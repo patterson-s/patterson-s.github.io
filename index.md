@@ -13,6 +13,7 @@ I am a Ph.D. candidate in Political Science at McGill University. I specialize i
   - [Occupation Classifier](https://occupationclassifierfinetunegit-tgydnpdgrq3ddjrf5e8plp.streamlit.app/) - A fine-tuned GPT model for classifying occupations using BLS codes. Follow the link to try the most recent version. 
   - [Audio transcription](https://whispertranscriber-ypxjgklxlqn6zbmz6e9w8h.streamlit.app/) - This illustrates how to transcribe audio files for free using the OpenAI whisper model. If working with many files or with large files, this [colab](https://colab.research.google.com/drive/10qucU8nBED9LA-aIZ8ViK7yR_4btqEnL?usp=sharing) version works better and allows for free-tier GPU acceleration.
   - [Mistral OCR](https://mistral-ocr-gui.streamlit.app/) This is a simple interface to use the Mistral OCR tool. For more about Mistral OCR, see this [link](https://mistral.ai/fr/news/mistral-ocr)
+  - [Dynamic Prompt Developer](https://searchagent-patterson.streamlit.app/). Under development 
 
 [CV](CV)
 
