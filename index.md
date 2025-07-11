@@ -16,6 +16,7 @@ I recently completed my Ph.D. in Political Science at McGill University. In Fall
   - [Dynamic Prompt Developer](https://searchagent-patterson.streamlit.app/). Under development
 
 [Policy](Policy)
+
 At McGill, I contributed to some of the early policy work on the pedagogical impacts of Generative AI.
 
 - [AI Working Group, Teaching and Learning Services](https://www.mcgill.ca/stl/files/stl/stl_recommendations_2.pdf) - I co-authored this policy recommendation as the graduate student representative to this working group. I was mostly interested in clarifying the technical differences between detecting plagiarism and AI-generated content for academic integrity issues.
