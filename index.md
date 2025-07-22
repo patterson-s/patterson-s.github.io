@@ -5,8 +5,9 @@ layout: home
 I recently completed my Ph.D. in Political Science at McGill University. In Fall 2025, I'll be starting a post-doctoral fellowship at the Université de Montréal. I specialize in developing ways to use language models to understand political language, especially in international diplomacy. I also study global AI governance, and I am particularly interested in the intersection of technical and normative standards. Additionally, I have done some advisory work on AI and pedagogy at McGill, and have taught some methodological workshops on how to use language models as a research tool. 
 
 [Publications](publications)
+  - [Placing Machine Learning into the Hermeneutic Circle.](https://link.springer.com/article/10.1057/s41268-024-00335-4) Scott Robert Patterson and Vincent Pouliot. *Journal of International Relations and Development*, 2024.
   - [Domesticating Wealth Inequality](https://doi.org/10.1093/isagsq/ksae023). Vincent Pouliot and Scott Robert Patterson. *Global Studies Quarterly*, 2024.
-  - [Placing Machine Learning into the Hermeneutic Circle.](https://link.springer.com/article/10.1057/s41268-024-00289-x) Scott Robert Patterson and Vincent Pouliot. *Journal of International Relations and Development*, 2024.
+  - 
 
 [Code](Code)
   - [State Detection NER Demo](https://patterson-s-state-detector-ner-app-vz4hx4.streamlit.app/) - This is a custom named entity detection (NER) model that can extract mentions of countries from unstructured text. Follow the link to test out the most recent version. 
